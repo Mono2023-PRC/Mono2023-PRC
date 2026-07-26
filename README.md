@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/Mono2023-PRC/Mono2023-PRC"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
     <a href="https://github.com/Mono2023-PRC/Mono2023-PRC/graphs/contributors"><img src="https://img.shields.io/github/contributors/Mono2023-PRC/Mono2023-PRC?color=blue"></a>
     <a href="https://github.com/Mono2023-PRC/Mono2023-PRC/stargazers"><img src="https://img.shields.io/github/stars/Mono2023-PRC/Mono2023-PRC.svg?logo=github"></a>
     <a href="https://github.com/Mono2023-PRC/Mono2023-PRC/network/members"><img src="https://img.shields.io/github/forks/Mono2023-PRC/Mono2023-PRC.svg?color=blue&logo=github"></a>
